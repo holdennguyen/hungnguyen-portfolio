@@ -1,25 +1,20 @@
-![Logo](https://res.cloudinary.com/sbarria-dev/image/upload/v1647832358/sergiobarria/banners/duypham2108.github.io-cover-3_1_gj8s6f.png)
-
 <p align="center">
   <img src="https://img.shields.io/apm/l/atomic-design-ui.svg?" />
   <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" />
-  <img src="https://github.com/sergiobarria/duypham2108.github.io/actions/workflows/cypress.yml/badge.svg?branch=main" />
 </p>
 
-# duypham2108.github.io
+# minhung.link
 
-This is my personal website, blog and portolio showcase. Built with Next.js and Tailwind CSS. Written using TypeScript and content managed with MDX.
+This is my personal website and portolio showcase. Built with no front-end developement experiement...
 
 ## Overview
 
-I created the first two versions of my portfolio using Next.js and a a couple of headless CMS's for content management, and although I didn't had any proble I decided to try and use Gatsby. I had no problem either, and really enjoyed using Gatsby, however I ended deciding to switch back to Next.js.
-
-I really like using headless CMS's like Sanity.io, Contentful or GraphCMS. But in this ocasion I decided to manage my content by myself using markdown. After a little research I decided to try with MDX and ended with the result you see [here](https://www.duypham2108.github.io/).
+I really like this [portfolio](https://github.com/sergiobarria/sergiobarria.com). After a little research to simplify and ended with the result you see [here](https:/minhung.link/).
 
 ## Folder Structure
 
 ```
-duypham2108.github.io/
+minhung.link/
 ├── __tests__/
 ├── .github/
 ├── .husky/
@@ -69,46 +64,16 @@ Most of the project content is inside the `src` folder.
 
 **Content:** MDX, [Contentlayer](https://github.com/contentlayerdev/contentlayer)
 
-**API's:** Spotify API, Github GraphQL API
+**API's:** Github GraphQL API
 
 ## Run Locally
 
 - Clone the project
 
 ```bash
-  $ git clone git@github.com:sergiobarria/duypham2108.github.io.git
+  $ git clone https://github.com/holdennguyen/hungnguyen-portfolio.git
   $ cd duypham2108.github.io
   $ yarn && yarn dev
 ```
 
-Create .env file similar to `.env.example`
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env.local file
-
-`SENDGRID_API_KEY`
-
-`EMAIL_SENDER`
-
-`EMAIL_RECEIVER`
-
-`DATABASE_URL`
-
-`SPOTIFY_CLIENT_ID`
-
-`SPOTIFY_CLIENT_SECRET`
-
-`SPOTIFY_REFRESH_TOKEN`
-
-`GITHUB_ACCESS_TOKEN`
-
-## Screenshots
-
-My pinned github repos using Github GraphQL API and Urql client for data fetching
-
-<img alt="featured projects from github" src="https://res.cloudinary.com/sbarria-dev/image/upload/v1642280532/sergiobarria/repo/featured_projects_ltdrog.png" />
-
-Currently playing using spotify API
-
-<img alt="currently playing card" src="https://res.cloudinary.com/sbarria-dev/image/upload/v1642280643/sergiobarria/repo/spotify_now_playing_nae3rq.png" />
+> Use NodeJS v16
