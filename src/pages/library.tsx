@@ -34,9 +34,9 @@ export default function LibraryPage({
 
   const customMetadata = {
     title: 'Library',
-    canonical: 'https://minhung.link/library',
+    canonical: 'https://https://hungnguyen-portfolio.vercel.app//library',
     openGraph: {
-      url: 'https://minhung.link/library',
+      url: 'https://https://hungnguyen-portfolio.vercel.app//library',
     },
   };
 

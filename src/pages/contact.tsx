@@ -10,9 +10,9 @@ export default function ContactPage() {
 
   const customMetadata = {
     title: 'Contact',
-    canonical: 'https://minhung.link/contact',
+    canonical: 'https://https://hungnguyen-portfolio.vercel.app//contact',
     openGraph: {
-      url: 'https://minhung.link/contact',
+      url: 'https://https://hungnguyen-portfolio.vercel.app//contact',
     },
   };
 

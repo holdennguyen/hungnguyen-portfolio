@@ -8,9 +8,9 @@ import { H1, Paragraph } from '@/components/Typography';
 export default function AboutPage() {
   const customMetadata = {
     title: 'About',
-    canonical: 'https://minhung.link/about',
+    canonical: 'https://https://hungnguyen-portfolio.vercel.app//about',
     openGraph: {
-      url: 'https://minhung.link/about',
+      url: 'https://https://hungnguyen-portfolio.vercel.app//about',
     },
   };
 
