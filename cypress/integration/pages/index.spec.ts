@@ -6,6 +6,6 @@ describe('Home Page', () => {
   });
 
   it('should display correct heading', () => {
-    cy.get('h1').should('contains', /hi, i\'m sergio/i);
+    cy.get('h1').should('contains', /hi, i\'m hung nguyen/i);
   });
 });
