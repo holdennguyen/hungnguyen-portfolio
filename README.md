@@ -72,7 +72,7 @@ Most of the project content is inside the `src` folder.
 
 ```bash
   $ git clone https://github.com/holdennguyen/hungnguyen-portfolio.git
-  $ cd duypham2108.github.io
+  $ cd hungnguyen-portfolio
   $ yarn && yarn dev
 ```
 
