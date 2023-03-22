@@ -72,7 +72,7 @@ function HomePage({
                   Devops engineer
                 </Paragraph>
                 <Paragraph>
-                An accomplished engineer who has successfully transitioned from the electrical engineering field to the exciting world of DevOps. 
+                An accomplished engineer who has successfully transitioned from the mechanical engineering field to the exciting world of DevOps. 
                 Honed problem solving skill and gained invaluable experience after over five years at Intel Vietnam.
                 </Paragraph>
               </div>
