@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/apm/l/atomic-design-ui.svg?" />
-  <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" />
-</p>
-
 # minhung.link
 
 This is my personal website and portolio showcase. Built with no front-end developement experiement...
