@@ -11,13 +11,13 @@ import { Main } from '@/components/base';
 import Card from '@/components/cards/Card';
 // import FeaturedPostCard from '@/components/cards/FeaturedPostCard';
 import GithubCard from '@/components/cards/GithubCard';
+import Demo from '@/components/chart/demo';
 // import Demo from '@/components/chart/demo'
 import CurrentGoals from '@/components/CurrentGoals';
 import { H1, H2, H4, Paragraph } from '@/components/Typography';
 
 import { jobs } from '@/fixtures/jobs';
 
-import YoutubeIframe from '../content/YoutubeIframe';
 import { display,repoState } from "../stores/reducer";
 import { wrapper }  from '../stores/store';
 
@@ -81,12 +81,6 @@ function HomePage({
               </div>
             </div>
           </header>
-        </Section>
-
-        <Section>
-          <div className='mb-10'>
-          <YoutubeIframe margin-right="auto" videoId={videoId} title={title} />
-          </div>
         </Section>
 
         {/* What I do */}

@@ -15,7 +15,7 @@ const initState = {
       url: "https://github.com/holdennguyen/kubernetes-install-cluster-with-kubeadm",
       name: "Kubernetes Cluster",
       description: "Bootstrapping K8s cluster with kubeadm (Provisioning by Vagrant & Virtual Box)",
-      language: "Ruby",
+      language: "",
       product: "git",
     },
     {
@@ -23,7 +23,7 @@ const initState = {
       url: "https://github.com/holdennguyen/wordpress-route53-lightsail",
       name: "Wordpress Server",
       description: "Hosting Wordpress in Amazon Lightsail & Route53 with SSL Certificates",
-      language: "Markdown",
+      language: "",
       product: "git",
     },
     /*{
