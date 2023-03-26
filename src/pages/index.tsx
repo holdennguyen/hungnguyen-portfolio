@@ -73,7 +73,7 @@ function HomePage({
                 </Paragraph>
                 <Paragraph>
                 An accomplished engineer who has successfully transitioned from the mechanical engineering field to the exciting world of DevOps. 
-                Honed problem solving skill and gained invaluable experience after over five years at Intel Vietnam.
+                Honed problem-solving skills and gained invaluable experience after over five years at Intel Vietnam.
                 </Paragraph>
               </div>
               <div className='md:w-1/4 container mx-auto' >
@@ -141,8 +141,8 @@ function HomePage({
         <Section>
           <H2>Self Projects</H2>
           <Paragraph className='mb-4'>
-            Here you can see some of the DevOps homelab I've work on. This are fetchet
-            from Github using Github's GraphQL API.
+            Here you can see some of the DevOps home labs I've worked on. These are fetched
+            from Github using Github GraphQL API.
           </Paragraph>
 
           <div className='mb-4 grid grid-cols-1 gap-4 sm:grid-cols-2'>
@@ -155,7 +155,7 @@ function HomePage({
 
         {/* Current Goals */}
         <Section>
-          <H2>Certification</H2>
+          <H2>Certifications</H2>
           <CurrentGoals />
         </Section>
       </Main>

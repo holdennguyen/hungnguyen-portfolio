@@ -22,7 +22,7 @@ export default function AboutPage() {
           <H1>About me</H1>
           <article className='prose mt-6 max-w-none'>
             <Paragraph>
-              Hello! I'm Hung Nguyen. I'm a junior devops engineer
+              Hello! I'm Hung Nguyen. I'm a junior DevOps engineer
               from Vietnam.
             </Paragraph>
             <Paragraph>
@@ -30,10 +30,10 @@ export default function AboutPage() {
                 I decided it was time for a career change. During that time, I was focused on using LEAN principles and innovation 
                 to improve operational efficiency, I notice how much the world was being transformed by software, 
                 particularly in the mechanical industry. That realization led me to join an internal mentoring program in 2021, 
-                where I had the opportunity to meet with a principle engineer of Intel's IoT Group from US. 
+                where I had the opportunity to meet with a principal engineer of Intel's IoT Group from the US. 
                 During our one-on-one meetings, we delved into the world of IoT and its related concepts, 
-                including connectivity broadcasting, security, micro-services, and devops culture. 
-                This experience was a turning point for me, as it inspired me to become a devops engineer and 
+                including connectivity broadcasting, security, micro-services, and DevOps culture. 
+                This experience was a turning point for me, as it inspired me to become a DevOps engineer and 
                 work towards growing into roles such as MLOps/DataOps/AIOps. 
                 <br /><br />
                 🌱 In addition to pursuing a career in DevOps, I'm also currently working towards earning my bachelor's degree
