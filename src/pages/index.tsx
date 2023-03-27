@@ -155,7 +155,7 @@ function HomePage({
 
         {/* Current Goals */}
         <Section>
-          <H2>Certifications</H2>
+          <H2>Certifications++++++</H2>
           <CurrentGoals />
         </Section>
       </Main>
