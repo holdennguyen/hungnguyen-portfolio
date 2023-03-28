@@ -38,7 +38,7 @@ export default function AboutPage() {
                 <br /><br />
                 🌱 In addition to pursuing a career in DevOps, I'm also currently working towards earning my bachelor's degree
                 in software engineering through online courses. While it's certainly been a challenge for me to self-teach without a CS background,
-                I've found that my experience in different field has actually been an advantage in some ways. Because I understand exactly why I need to learn these concepts, 
+                I've found that my experience in the different fields has actually been an advantage in some ways. Because I understand exactly why I need to learn these concepts, 
                 I'm able to stay focused and motivated throughout the process.
                 <br /><br />
                 👯 One of the methods I've found to be particularly effective is sharing what I learn with others.  
@@ -50,8 +50,8 @@ export default function AboutPage() {
               <Link href='/contact'>
                 <a className='text-primary hover:text-primary/70'>contact me</a>
               </Link>
-              , go ahead and send me a message through email in my
-              contact page. I'll be happy to connect and get oportunity for a new job position.
+              , go ahead and send me a message through email on my
+              contact page. I'll be happy to connect and get the opportunity for a new job position.
             </Paragraph>
           </article>
         </Section>
