@@ -28,30 +28,20 @@ const initState = {
     },
     {
       id: 2,
+      url: "https://github.com/holdennguyen/kasm-workspaces-single-server",
+      name: "Kasm Workspaces",
+      description: "Streaming containeried apps & desktops to browser. Automation hosting Kasm Workspaces with Terraform and Linode cloud.",
+      language: "",
+      product: "git",
+    },
+    {
+      id: 3,
       url: "https://github.com/holdennguyen/wordpress-route53-lightsail",
       name: "Wordpress Server",
       description: "Hosting WordPress in Amazon Lightsail & Route53 with SSL Certificates",
       language: "",
       product: "git",
     },
-    /*
-    {
-      id: 3,
-      url: "",
-      name: "",
-      description: "",
-      language: "",
-      product: "git",
-    },
-    {
-      id: 4,
-      url: "",
-      name: "",
-      description: "",
-      language: "",
-      product: "web",
-    },*/
-
   ]
 
 }
