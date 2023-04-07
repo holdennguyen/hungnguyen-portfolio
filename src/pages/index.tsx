@@ -77,7 +77,7 @@ function HomePage({
                 </Paragraph>
               </div>
               <div className='md:w-1/4 container mx-auto' >
-                  <Image src="/static/images/photo.png" width={200} height={200} alt="avatar" className='mx-auto' />
+                  <Image src="/static/images/avatar.png" width={200} height={200} alt="avatar" className='mx-auto' />
               </div>
             </div>
           </header>
