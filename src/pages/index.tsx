@@ -69,11 +69,11 @@ function HomePage({
               <div className='md:w-2/3'>
                 <H1>Hi, I&apos;m Hung Nguyen</H1>
                 <Paragraph className='mt-3 mb-3 text-gray-400 dark:text-slate-400'>
-                  Devops engineer
+                  DevOps/SRE engineer
                 </Paragraph>
                 <Paragraph>
-                An accomplished engineer who has successfully transitioned from the mechanical engineering field to the exciting world of DevOps. 
-                Honed problem-solving skills and gained invaluable experience after over five years at Intel Vietnam.
+                An accomplished engineer who has successfully transitioned from the mechanical engineering field to the exciting world of Software Engineering. 
+                Honed problem-solving skills and gained invaluable experience after over six years at global company and corporation.
                 </Paragraph>
               </div>
               <div className='md:w-1/4 container mx-auto' >

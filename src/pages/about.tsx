@@ -22,7 +22,7 @@ export default function AboutPage() {
           <H1>About me</H1>
           <article className='prose mt-6 max-w-none'>
             <Paragraph>
-              Hello! I'm Hung Nguyen. I'm a junior DevOps engineer
+              Hello! I'm Hung Nguyen. I'm a DevOps/SRE engineer
               from Vietnam.
             </Paragraph>
             <Paragraph>
@@ -33,13 +33,13 @@ export default function AboutPage() {
                 where I had the opportunity to meet with a principal engineer of Intel's IoT Group from the US. 
                 During our one-on-one meetings, we delved into the world of IoT and its related concepts, 
                 including connectivity broadcasting, security, micro-services, and DevOps culture. 
-                This experience was a turning point for me, as it inspired me to become a DevOps engineer and 
+                This experience was a turning point for me, as it inspired me to become a DevOps/SRE engineer and 
                 work towards growing into roles such as MLOps/DataOps/AIOps. 
                 <br /><br />
-                🌱 In addition to pursuing a career in DevOps, I'm also currently working towards earning my bachelor's degree
-                in software engineering through online courses. While it's certainly been a challenge for me to self-teach without a CS background,
-                I've found that my experience in the different fields has actually been an advantage in some ways. Because I understand exactly why I need to learn these concepts, 
-                I'm able to stay focused and motivated throughout the process.
+                🌱 This shift was more than a career pivot—it marked the beginning of my specialization in cutting-edge areas like
+                DevSecOps. My successful transition culminated at OPSWAT Vietnam, where I excelled as an SRE, 
+                managing the Metadefender Cloud Platform/API. Here, my role not only deepened my expertise in cybersecurity and 
+                infrastructure but also underscored my continuous research and development within the software field.
                 <br /><br />
                 👯 One of the methods I've found to be particularly effective is sharing what I learn with others.  
                 By doing so, not only am I able to better organize my own knowledge, but I'm also able to communicate 
