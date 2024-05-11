@@ -22,7 +22,7 @@ export default function AboutPage() {
           <H1>About me</H1>
           <article className='prose mt-6 max-w-none'>
             <Paragraph>
-              Hello! I'm Hung Nguyen. I'm a DevOps/SRE engineer
+              Hello! I'm Holden (Hung) Nguyen. I'm a DevOps/SRE engineer
               from Vietnam.
             </Paragraph>
             <Paragraph>

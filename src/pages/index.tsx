@@ -67,7 +67,7 @@ function HomePage({
           <header>
             <div className="flex flex-row ...">
               <div className='md:w-2/3'>
-                <H1>Hi, I&apos;m Hung Nguyen</H1>
+                <H1>Hi, I&apos;m Holden (Hung) Nguyen</H1>
                 <Paragraph className='mt-3 mb-3 text-gray-400 dark:text-slate-400'>
                   DevOps/SRE engineer
                 </Paragraph>
